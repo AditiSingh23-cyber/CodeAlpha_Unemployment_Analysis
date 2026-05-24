@@ -1,2 +1,24 @@
-# CodeAlpha_Unemployment_Analysis
-Python-based unemployment analysis project focused on data cleaning, exploration, visualization, Covid-19 impact analysis, and identifying unemployment trends using Pandas, Matplotlib, and Seaborn.
+# CodeAlpha Unemployment Analysis
+
+## Project Overview
+This project analyzes unemployment rate trends using Python.
+
+## Objectives
+- Data Cleaning
+- Data Exploration
+- Data Visualization
+- Unemployment Trend Analysis
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Project Files
+- Unemployment_Analysis.ipynb
+- unemployment_data.csv
+
+## Conclusion
+The project identifies unemployment trends across different regions and time periods using visualization and statistical analysis.
